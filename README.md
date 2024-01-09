@@ -5,4 +5,4 @@ This project was created following the course by Jonas Schmetman.
 
 OOP, Geolocation, Project planning)
 
- [Live Demo](https://your-live-link-here)
+ [Live Demo](mapty-oop-js.netlify.app)
